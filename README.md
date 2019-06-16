@@ -1,5 +1,5 @@
 # ajax-pokedex
   
-  [Opdracht]()  
+  [Opdracht](opdracht.md)  
     
-      [Oefening]()
+   [Oefening](https://geert-timmermans.github.io/ajax-pokedex/)
